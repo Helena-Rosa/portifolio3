@@ -1,0 +1,16 @@
+{
+  "name": "portifolio3",
+  "version": "1.0.0",
+  "description": "criação de um portifolio para o trabalho de html.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portifolio",
+    "display",
+    "flex"
+  ],
+  "author": "Helena Rosa",
+  "license": "ISC"
+}
