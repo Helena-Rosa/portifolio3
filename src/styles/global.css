@@ -69,7 +69,7 @@
 
 .container-main-texto{
     width: 50%;
-    height: 100%;
+    height: 80%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,15 +81,16 @@
 .container-main-texto h1{
     text-align: center;
     color: #fff;
-    font-size: 100px;
+    font-size: 70px;
     line-height: 1.6;
+    
 }
 
 .container-main-texto p{
     text-align: center;
     color: #fff;
-    font-size: 60px;
-    line-height: 100px;
+    font-size: 50px;
+    line-height: 10px;
 }
 
 .container-main-imagem img{
@@ -102,7 +103,8 @@
     background-color: rgb(23, 92, 29);
     display: flex;
     color: white;
-    padding: 8vh 0;   
+    text-align: center;
+    padding: 8vh 0; 
 }
 
 .container-pizza-imagem img{
@@ -118,6 +120,14 @@
 .container-lista1{
     list-style:outside;
     background-color: rgb(128, 19, 0);
+    text-align: center;
+    font-size: 40px;
+    gap : 30px;
+    padding: 20px;
+    width: 114%;
+    height: 60vh;
+    
+    
 
 }
 
@@ -140,11 +150,12 @@
 .container-risoto{
     width: 100%;
     height: 100vh;
-    background-color: rgb(141, 18, 18);
+    background-color: rgb(128, 19, 0);
     display: flex;
     color: white;
     padding: 8vh 0 ;
 }
+    
 
 .container-risoto-imagem img{
     width: 100%;
@@ -155,6 +166,12 @@
 .container-lista2{
     list-style:outside;
     background-color: rgb(23, 92, 29);
+    text-align: center;
+    font-size: 40px;
+    gap : 30px;
+    padding: 20px;
+    width: 114%;
+    height: 60vh;
 }
 
 
@@ -184,6 +201,8 @@
     padding: 8vh 0 ;
 }
 
+    
+
 .container-macarrao-imagem img{
     width: 100%;
     height: 100%;
@@ -191,7 +210,13 @@
 
 .container-lista3{
     list-style:outside;
-    background-color: rgb(131, 25, 25);
+    background-color: rgb(128, 19, 0);
+    text-align: center;
+    font-size: 40px;
+    gap : 30px;
+    padding: 20px;
+    width: 114%;
+    height: 60vh;
 }
 
 
